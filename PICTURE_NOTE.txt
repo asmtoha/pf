@@ -1,0 +1,3 @@
+/* Profile image will be handled by the user uploading it or it being in the root. 
+   For now, I'll use the provided artifact path if I can, but standard procedure is to 
+   let the user know they should place their 'profile.png' in the root folder. */
